@@ -1,0 +1,37 @@
+Week 1
+- assigned scrum master
+- chose roles (backend)
+- chose project (Learning Management System)
+- schedules bi-weekly meetings (Tuesday, Saturday)
+- decided to use python Flask for backend 
+- tasked with setting up backend
+
+Week 2
+- discussed user stores, novel functions for project proposal
+- assigned authentication user stories
+- setup flask server
+
+Week 3
+- completed authentication routes (login, register, logout)
+- setup online DB (with James)
+
+Week 4
+- Assignment System + Course System backend refactoring
+
+Week 5
+- Overseas (Special Consideration)
+
+Week 6
+- Quiz System backend 
+
+Week 7 
+- Quiz System backend + db refactoring
+
+Week 8
+- Notification System
+
+Week 9 
+- Gamification backend
+
+Week 10
+- Gamification backend + db refactoring + backend refactoring

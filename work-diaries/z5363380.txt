@@ -1,0 +1,51 @@
+Week 1
+During the lab, group formed and decided to do Learning Management System, roles assigned and Jira website created.
+Also agreed on a weekly standup of 9:30 on Tuesday and Saturday.
+
+Wrote most of the user stories and organised them into epics in Jira
+
+Week 2
+Adding user stories for admin and teacher(to seperate from lecturer), making adjustments to novel functionalities and add acceptance criteria to all user stories.
+Will do figma storyboard for lecturer interfaces
+
+new updates from writing user story acceptance criteria
+-join course on course dashboard
+-pending enrolment
+-ways for student to join class
+
+Week 3
+Finilising proposal, many changes to user stories and novel functions, the scope for novel functions is much larger than better and completed all the acceptance
+criteria for user stories in given/when/then style.
+
+Week 4
+Worked on the python backend for course and assignment system, still trying to understand how postgresql functions work.
+Wrote some backend design and functions that we need that I want.
+Resource and assignment system are pretty annoying.
+
+Week 5
+Many changes to the resource and assignment system, figured that instead of letting the backend handle file view and donwload its better to let the frontend convert
+everything to base64 string and its easier for everyone.
+Will probably delay the class system to after most of stuff are done because there are many duplicating functioanlities between course and class
+
+Week 6
+for sprint2:
+token validity
+resource now takes base64 string
+class system
+enrol lecturer/teacher to enrol request instead of free access
+
+Week 7
+Class system overhaul from being a seperate system to be a part of course system
+Forum system backend and use the notification functions in forum and course system
+
+Week 8
+Prepare for demo 2
+Start on the user profile system, search on how to generate avatar
+
+Week 9
+User profile system finished, avatar making uses external library
+Writting the instruction documentation and record a video
+
+Week 10
+Finalise and help with connect/merge
+prepare for the final demo

@@ -1,0 +1,9 @@
+add points value to quiz and assignments table 
+student course-specific points balance column
+student course specific inventory table 
+course-specific shop table
+lecturers create items for course-specific shop table
+rank students in course by points
+students donate points to other students query
+students course-specific wishlist table (can be combined with other tables?)
+

@@ -1,0 +1,18 @@
+Week 1:
+Formed team name (3900H18BGitGud) and general meeting time/scheduling. Assigned roles to each member (Scrum Master + assistance with backend, 
+frontend if needed). Created user stories for user types and laid out corresponding functionalities and potential novel functions. I Started working 
+on Jira, created sprints, uploaded user stories and started sections within the report. Brainstormed about methods for database and languages to code in. 
+
+Week 2:
+Adjusted many of our user stories based on tutors’ feedback and new content from lecturers. Began work on the story board and setting up of the database 
+and backend systems. Laid out sprints and user stories for each sprint with more detail. I started on the proposal, researching problems with learning 
+management systems and looked at similar style LMS such as Moodle. 
+
+Week 3:
+Finalised all user stories and storyboard. Adjusted the proposal to the changes and added more user stories to our novel functionality. Finalised 
+and submitted project proposal, incorporated the architecture diagram and went more into depth about the projects’ objectives after more feedback.
+
+Week 4:
+Started setting up virtual box and confirming what tools to use for the frontend. Had some trouble setting up as moodle virtual box guide was not 
+working for me. Downloaded and updated system to work for databases and backend. Started creating frontend, attempting to link between backend. 
+Linked vscode to virtual box through laptop.

@@ -1,0 +1,31 @@
+Week 1
+
+Completed the group formation and team name creation within week 1. Additionally, the scrum master was decided along with the other roles including databases, backend and frontend roles. Began deciding on the possible user-stories and started the jira group was created.
+
+Week 2
+
+Setup the github and cloned the github repo to the local computer and began designing the database schema. Also decided on the online cloud used to hold the database, named elephantsql. Setup the online database which was connected to the flask server. Wrote some quries for authentication and login.
+
+Week 3
+
+Finished writing all queries for authentication and login. Finished writing up the database for users and tokens which is used for auth and login, along with writing up the database for future jira TODOs.
+
+Week 4
+
+Wrote database queries for course system and assignments. Added system for file storage however will require future fixing for clarity. ALso wrote database schema for clarity.
+
+Week 5
+
+Wrote database functions and added more queries for backend. Also worked on backend directly to fix routes and debug functions that required database queries. Added database entries for backend.
+
+Week 7
+Wrote database queries for quiz system including the database tables and functions for the given queries. Also began writing forum queries.
+
+Week 8
+Finished writing forum queries for forum system. Refactored database to include class_id in accordance with the new class system.
+
+Week 9
+Wrote the tables, queries and funcs for the user_profile system and gamification system database. Started some work on live_class system database.
+
+Week 10
+Added upload_video system for live_class which eventually failed due to lack of quota for video uploads. Wrote database for upload video.

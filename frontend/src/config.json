@@ -1,0 +1,200 @@
+{
+	"BACKEND_PORT": 5005,
+	"roles": ["Student", "Teacher", "Lecturer"],
+	"terms": ["23T3", "24T1", "24T2", "24T3"],
+	"quizzes": {
+		"question_types": ["Multiple Choice", "Short Answer"],
+		"mc_answers": ["A", "B", "C", "D"]
+	},
+	"pages": {
+		"course": [
+			{
+			  "name": "Home",
+			  "link": "home"
+			},
+			{
+			  "name": "Forums",
+			  "link": "forums"
+			},
+			{
+			  "name": "Participants",
+			  "link": "participants"
+			},
+			{
+			  "name": "Assignments",
+			  "link": "assignments"
+			},
+			{
+			  "name": "Quizzes",
+			  "link": "quizzes"
+			},
+			{
+			  "name": "Classes",
+			  "link": "classes"
+			},
+			{
+			  "name": "Resources",
+			  "link": "resources"
+			},
+			{
+			  "name": "Lessons",
+			  "link": "lessons"
+			}
+		],
+		"points": [
+			{
+				"name": "Home",
+				"link": "home"
+			},
+			{
+				"name": "Ranking",
+				"link": "ranking"
+			},
+			{
+				"name": "Shop",
+				"link": "shop"
+			},
+			{
+				"name": "Missions",
+				"link": "missions"
+			},
+			{
+				"name": "Minigames",
+				"link": "minigames"
+			}
+		]
+	},
+	"student": {
+		"dashboard": {
+			"button": "Join Course",
+			"link": "join-course"
+		},
+		"participants": {
+			"add": false
+		},
+		"assignments": {
+			"create": false,
+			"view_all": false
+		},
+		"classes": {
+			"create": false,
+			"join": true
+		},
+		"resources": {
+			"create": false,
+			"view_all": false
+		},
+		"submissions": {
+			"button": "Submit Assignment",
+			"function": "submit",
+			"submitter": true
+		},
+		"quizzes": {
+			"create": false,
+			"can_view_submissions": false,
+			"can_answer": true,
+			"view_all": false
+		},
+		"forums": {
+			"create": false
+		},
+		"points": {
+			"can_create_item": false,
+			"can_buy_item": true,
+			"can_guess_mark": true,
+			"can_view_mission": true
+		},
+		"lessons": {
+			"can_create": false
+		}
+	},
+	"teacher": {
+		"dashboard": {
+			"button": "Join Course",
+			"link": "join-course"
+		},
+		"participants": {
+			"add": true
+		},
+		"assignments": {
+			"create": true,
+			"view_all": false
+		},
+		"classes": {
+			"create": false,
+			"join": true
+		},
+		"resources": {
+			"create": true,
+			"view_all": false
+		},
+		"submissions": {
+			"button": "View Student Submissions",
+			"function": "view",
+			"submitter": false
+		},
+		"quizzes": {
+			"create": true,
+			"can_view_submissions": true,
+			"can_answer": false,
+			"view_all": false
+		},
+		"forums": {
+			"create": true
+		},
+		"points": {
+			"can_create_item": true,
+			"can_buy_item": false,
+			"can_guess_mark": false,
+			"can_view_mission": false
+		}
+		,
+		"lessons": {
+			"can_create": true
+		}
+	},
+	"lecturer": {
+		"dashboard": {
+			"button": "Create Course",
+			"link": "create-course"
+		},
+		"participants": {
+			"add": true
+		},
+		"assignments": {
+			"create": true,
+			"view_all": true
+		},
+		"classes": {
+			"create": true,
+			"join": false
+		},
+		"resources": {
+			"create": true,
+			"view_all": true
+		},
+		"submissions": {
+			"button": "View Student Submissions",
+			"function": "view",
+			"submitter": false
+		},
+		"quizzes": {
+			"create": true,
+			"can_view_submissions": true,
+			"can_answer": false,
+			"view_all": true
+		},
+		"forums": {
+			"create": true
+		},
+		"points": {
+			"can_create_item": true,
+			"can_buy_item": false,
+			"can_guess_mark": false,
+			"can_view_mission": false
+		},
+		"lessons": {
+			"can_create": true
+		}
+	}
+}

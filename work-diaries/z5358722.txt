@@ -1,0 +1,50 @@
+Week 1
+Formed group and decided on the name GitGud.
+We selected Scrum Master, who created the Jira Site.
+We decided on doing the Learning Management system with other group members along with some possible novel functionalities.
+We allocated roles for each member, mine being frontend.
+Discussed the project and proposal with group members in meetings, in particular we decided to use Python / Flask for backend and JS / React for frontend.
+Started to draw up some storyboards on Figma for the proposal.
+
+Week 2
+Setup the Github (and added this file :p)
+Working more on storyboards
+
+Week 3
+Finished storyboards.
+As a group we finished the proposal and submitted it, and discussed what we will do for week 4
+
+Week 4
+Started on frontend, finished alot of the sprint 1 pages according to Figma
+(Not connected to backend)
+
+Week 5
+More work on frontend, trying to finish sprint before tut
+Started connecting frontend and backend
+Tutorial finished and we presented our work as a group and afterwards discussed how it went for the retrospective
+frontend+backend got merged into one branch afterwards. this broke the frontend so I fixed the frontend
+then started connecting more of the routes with the backend
+
+Week 6
+wrote scripts to run front/back end, cleaned up and refactored code to use axios
+connected routes on the frontend for sprint 1
+started working on sprint 2 quiz stuff
+finished sprint 2 quiz stuff
+
+Week 7
+worked on sprint 3 user profile stuff, refactored some code, fixed some backend bugs
+
+Week 8
+finished frontend for user profile, not connected
+refactored more code and fixed a few backend and slight db bugs
+worked on parts of the forum system
+finished frontend and fixed backend for resource searching
+finished frontend for class system
+
+Week 9
+Worked on gamification + user profile frontend
+and live class system (frontend and backend) apart from recording
+
+Week 10
+gamification + user frontend is connected to backend,
+live class system recording connected to frontend
